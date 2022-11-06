@@ -20,7 +20,7 @@ The machine learning pipeline is implemented here in train_classifier.py. The da
 
 A flask web app that provide a user interface for messages input and shows the category using the model.
 
-## Project execution instructions:
+## Project Execution Instructions:
 
 1. Run the following commands in the project's root directory to set up your database and model.
 
