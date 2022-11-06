@@ -32,3 +32,8 @@ A flask web app that provide a user interface for messages input and shows the c
 3. Run your web app: `python run.py`
 
 4. Access the web app on your browser using http://0.0.0.0:3000/
+
+### Credits
+The following sources were consulted for this project:
+
+- Udacity Data Science Nanodegree Class Room Solutions
